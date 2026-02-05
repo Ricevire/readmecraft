@@ -1,0 +1,10 @@
+{
+  "projectName": "my-awesome-project",
+  "description": "An awesome project.",
+  "features": ["Fast", "Simple", "Reliable"],
+  "install": "pnpm i",
+  "usage": "pnpm start",
+  "license": "MIT",
+  "lang": "en",
+  "out": "README.md"
+}
