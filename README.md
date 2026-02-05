@@ -15,12 +15,20 @@ A lightweight CLI tool to generate clean, structured README files.
 ## Installation
 ```bash
 npm i -g readmecraft
-#Usage
+## Usage
+```bash
+# interactive
 readmecraft
-# or
+
+# specify output file
 readmecraft --out README.md
+
 # non-interactive
 readmecraft --no-prompt --force
+
+# Chinese template
+readmecraft --zh
+
 #Templates
 • templates/en.md
 • templates/zh.md
